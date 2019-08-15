@@ -1,0 +1,254 @@
+Applying user settings 
+
+Project starting 
+  checking for file collisions 
+  loading cascade images 
+    cascade 0 checking in 
+  checking cascade dependencies 
+    all simulation dependencies satisfied 
+  
+  starting runs:
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+  elapsed time 0.0 s  memory 102.22 MB 
+    Entering ./runs/H2O/optJ2 3 
+      writing input files  3 opt 
+    Entering ./runs/H2O/optJ2 3 
+      sending required files  3 opt 
+      submitting job  3 opt 
+    Entering ./runs/H2O/optJ2 3 
+      Executing:  
+        export OMP_NUM_THREADS=1
+        mpirun -np 16 qmcpack opt.in.xml 
+
+  elapsed time 3.0 s  memory 838.70 MB 
+  elapsed time 6.1 s  memory 838.97 MB 
+  elapsed time 9.1 s  memory 1132.03 MB 
+  elapsed time 12.1 s  memory 1141.40 MB 
+  elapsed time 15.2 s  memory 1142.47 MB 
+  elapsed time 18.2 s  memory 1142.47 MB 
+  elapsed time 21.3 s  memory 1142.47 MB 
+  elapsed time 24.3 s  memory 998.11 MB 
+  elapsed time 27.3 s  memory 998.11 MB 
+  elapsed time 30.4 s  memory 998.11 MB 
+  elapsed time 33.4 s  memory 1155.05 MB 
+  elapsed time 36.5 s  memory 1155.75 MB 
+  elapsed time 39.5 s  memory 1156.22 MB 
+  elapsed time 42.5 s  memory 1156.22 MB 
+  elapsed time 45.6 s  memory 1011.48 MB 
+  elapsed time 48.6 s  memory 1011.48 MB 
+  elapsed time 51.6 s  memory 1011.48 MB 
+  elapsed time 54.7 s  memory 1151.08 MB 
+  elapsed time 57.7 s  memory 1157.57 MB 
+  elapsed time 60.8 s  memory 1162.81 MB 
+  elapsed time 63.8 s  memory 1162.81 MB 
+  elapsed time 66.8 s  memory 1162.81 MB 
+  elapsed time 69.9 s  memory 1027.22 MB 
+  elapsed time 72.9 s  memory 1027.22 MB 
+  elapsed time 76.0 s  memory 1027.22 MB 
+  elapsed time 79.0 s  memory 1159.57 MB 
+  elapsed time 82.1 s  memory 1163.01 MB 
+  elapsed time 85.1 s  memory 1163.66 MB 
+  elapsed time 88.1 s  memory 1163.66 MB 
+  elapsed time 91.2 s  memory 1163.66 MB 
+  elapsed time 94.2 s  memory 1047.34 MB 
+  elapsed time 97.3 s  memory 1047.34 MB 
+  elapsed time 100.3 s  memory 1047.34 MB 
+  elapsed time 103.3 s  memory 1163.58 MB 
+  elapsed time 106.4 s  memory 1163.58 MB 
+  elapsed time 109.4 s  memory 1164.19 MB 
+  elapsed time 112.5 s  memory 1164.19 MB 
+  elapsed time 115.5 s  memory 1164.19 MB 
+  elapsed time 118.6 s  memory 1057.70 MB 
+  elapsed time 121.6 s  memory 1057.70 MB 
+  elapsed time 124.6 s  memory 1057.70 MB 
+  elapsed time 127.7 s  memory 1057.91 MB 
+  elapsed time 130.7 s  memory 1168.80 MB 
+  elapsed time 133.8 s  memory 1169.07 MB 
+  elapsed time 136.8 s  memory 1169.07 MB 
+  elapsed time 139.9 s  memory 1169.07 MB 
+  elapsed time 142.9 s  memory 103.37 MB 
+    Entering ./runs/H2O/optJ2 3 
+      copying results  3 opt 
+    Entering ./runs/H2O/optJ2 3 
+      analyzing  3 opt 
+
+  elapsed time 146.0 s  memory 104.71 MB 
+    Entering ./runs/H2O/optJ3 4 
+      writing input files  4 opt 
+    Entering ./runs/H2O/optJ3 4 
+      sending required files  4 opt 
+      submitting job  4 opt 
+    Entering ./runs/H2O/optJ3 4 
+      Executing:  
+        export OMP_NUM_THREADS=1
+        mpirun -np 16 qmcpack opt.in.xml 
+
+  elapsed time 149.1 s  memory 844.58 MB 
+  elapsed time 152.1 s  memory 844.58 MB 
+  elapsed time 155.2 s  memory 844.58 MB 
+  elapsed time 158.2 s  memory 844.85 MB 
+  elapsed time 161.2 s  memory 844.85 MB 
+  elapsed time 164.3 s  memory 844.85 MB 
+  elapsed time 167.3 s  memory 844.85 MB 
+  elapsed time 170.3 s  memory 845.09 MB 
+  elapsed time 173.4 s  memory 845.32 MB 
+  elapsed time 176.4 s  memory 845.58 MB 
+  elapsed time 179.4 s  memory 845.58 MB 
+  elapsed time 182.5 s  memory 845.58 MB 
+  elapsed time 185.5 s  memory 1480.93 MB 
+  elapsed time 188.6 s  memory 1480.93 MB 
+  elapsed time 191.6 s  memory 1480.93 MB 
+  elapsed time 194.7 s  memory 1480.93 MB 
+  elapsed time 197.7 s  memory 1480.93 MB 
+  elapsed time 200.8 s  memory 1480.93 MB 
+  elapsed time 203.8 s  memory 1490.79 MB 
+  elapsed time 206.8 s  memory 1491.06 MB 
+  elapsed time 209.9 s  memory 1516.17 MB 
+  elapsed time 212.9 s  memory 1516.17 MB 
+  elapsed time 215.9 s  memory 1516.17 MB 
+  elapsed time 219.0 s  memory 1520.77 MB 
+  elapsed time 222.0 s  memory 1520.77 MB 
+  elapsed time 225.1 s  memory 1520.77 MB 
+  elapsed time 228.1 s  memory 1520.77 MB 
+  elapsed time 231.1 s  memory 1014.95 MB 
+  elapsed time 234.2 s  memory 1014.95 MB 
+  elapsed time 237.2 s  memory 1014.95 MB 
+  elapsed time 240.3 s  memory 1014.95 MB 
+  elapsed time 243.3 s  memory 1014.95 MB 
+  elapsed time 246.4 s  memory 1014.95 MB 
+  elapsed time 249.4 s  memory 1014.95 MB 
+  elapsed time 252.4 s  memory 1014.95 MB 
+  elapsed time 255.4 s  memory 1014.95 MB 
+  elapsed time 258.5 s  memory 1014.95 MB 
+  elapsed time 261.5 s  memory 1014.95 MB 
+  elapsed time 264.6 s  memory 1507.52 MB 
+  elapsed time 267.6 s  memory 1507.52 MB 
+  elapsed time 270.6 s  memory 1507.52 MB 
+  elapsed time 273.7 s  memory 1507.52 MB 
+  elapsed time 276.7 s  memory 1507.52 MB 
+  elapsed time 279.8 s  memory 1507.79 MB 
+  elapsed time 282.8 s  memory 1508.31 MB 
+  elapsed time 285.8 s  memory 1509.03 MB 
+  elapsed time 288.9 s  memory 1515.88 MB 
+  elapsed time 291.9 s  memory 1525.12 MB 
+  elapsed time 295.0 s  memory 1525.12 MB 
+  elapsed time 298.0 s  memory 1525.36 MB 
+  elapsed time 301.0 s  memory 1525.36 MB 
+  elapsed time 304.1 s  memory 1525.36 MB 
+  elapsed time 307.1 s  memory 1525.36 MB 
+  elapsed time 310.2 s  memory 1525.36 MB 
+  elapsed time 313.2 s  memory 1047.33 MB 
+  elapsed time 316.2 s  memory 1047.33 MB 
+  elapsed time 319.3 s  memory 1047.33 MB 
+  elapsed time 322.3 s  memory 1047.33 MB 
+  elapsed time 325.4 s  memory 1047.33 MB 
+  elapsed time 328.4 s  memory 1047.33 MB 
+  elapsed time 331.4 s  memory 1047.33 MB 
+  elapsed time 334.5 s  memory 1047.33 MB 
+  elapsed time 337.5 s  memory 1047.33 MB 
+  elapsed time 340.5 s  memory 1047.33 MB 
+  elapsed time 343.6 s  memory 1047.33 MB 
+  elapsed time 346.6 s  memory 1047.33 MB 
+  elapsed time 349.7 s  memory 1523.66 MB 
+  elapsed time 352.7 s  memory 1523.66 MB 
+  elapsed time 355.8 s  memory 1523.66 MB 
+  elapsed time 358.8 s  memory 1523.66 MB 
+  elapsed time 361.8 s  memory 1523.66 MB 
+  elapsed time 364.9 s  memory 1523.92 MB 
+  elapsed time 367.9 s  memory 1531.74 MB 
+  elapsed time 371.0 s  memory 1531.74 MB 
+  elapsed time 374.0 s  memory 1540.57 MB 
+  elapsed time 377.1 s  memory 1540.57 MB 
+  elapsed time 380.1 s  memory 1540.57 MB 
+  elapsed time 383.1 s  memory 1540.57 MB 
+  elapsed time 386.2 s  memory 1541.68 MB 
+  elapsed time 389.2 s  memory 1541.68 MB 
+  elapsed time 392.2 s  memory 1541.68 MB 
+  elapsed time 395.3 s  memory 1062.39 MB 
+  elapsed time 398.3 s  memory 1062.39 MB 
+  elapsed time 401.4 s  memory 1062.39 MB 
+  elapsed time 404.4 s  memory 1062.39 MB 
+  elapsed time 407.5 s  memory 1062.39 MB 
+  elapsed time 410.5 s  memory 1062.39 MB 
+  elapsed time 413.5 s  memory 1062.39 MB 
+  elapsed time 416.6 s  memory 1062.39 MB 
+  elapsed time 419.6 s  memory 1062.39 MB 
+  elapsed time 422.7 s  memory 1062.39 MB 
+  elapsed time 425.7 s  memory 1062.39 MB 
+  elapsed time 428.8 s  memory 1523.72 MB 
+  elapsed time 431.8 s  memory 1523.72 MB 
+  elapsed time 434.8 s  memory 1523.72 MB 
+  elapsed time 437.9 s  memory 1523.72 MB 
+  elapsed time 440.9 s  memory 1523.72 MB 
+  elapsed time 444.0 s  memory 1523.72 MB 
+  elapsed time 447.0 s  memory 1526.42 MB 
+  elapsed time 450.1 s  memory 1531.59 MB 
+  elapsed time 453.1 s  memory 1539.97 MB 
+  elapsed time 456.2 s  memory 1540.24 MB 
+  elapsed time 459.2 s  memory 1540.24 MB 
+  elapsed time 462.3 s  memory 1540.24 MB 
+  elapsed time 465.3 s  memory 1540.24 MB 
+  elapsed time 468.4 s  memory 1540.24 MB 
+  elapsed time 471.4 s  memory 1540.24 MB 
+  elapsed time 474.4 s  memory 1062.39 MB 
+  elapsed time 477.4 s  memory 1062.39 MB 
+  elapsed time 480.5 s  memory 1062.39 MB 
+  elapsed time 483.5 s  memory 1062.39 MB 
+  elapsed time 486.5 s  memory 1062.39 MB 
+  elapsed time 489.6 s  memory 1062.39 MB 
+  elapsed time 492.6 s  memory 1062.39 MB 
+  elapsed time 495.7 s  memory 1062.39 MB 
+  elapsed time 498.7 s  memory 1062.39 MB 
+  elapsed time 501.7 s  memory 1062.39 MB 
+  elapsed time 504.8 s  memory 1062.39 MB 
+  elapsed time 507.8 s  memory 1062.39 MB 
+  elapsed time 510.9 s  memory 1523.87 MB 
+  elapsed time 513.9 s  memory 1523.87 MB 
+  elapsed time 516.9 s  memory 1523.87 MB 
+  elapsed time 520.0 s  memory 1523.87 MB 
+  elapsed time 523.0 s  memory 1523.87 MB 
+  elapsed time 526.1 s  memory 1523.87 MB 
+  elapsed time 529.1 s  memory 1524.36 MB 
+  elapsed time 532.1 s  memory 1531.69 MB 
+  elapsed time 535.2 s  memory 1540.74 MB 
+  elapsed time 538.2 s  memory 1540.74 MB 
+  elapsed time 541.2 s  memory 1540.74 MB 
+  elapsed time 544.3 s  memory 1540.74 MB 
+  elapsed time 547.4 s  memory 1540.74 MB 
+  elapsed time 550.4 s  memory 1540.74 MB 
+  elapsed time 553.5 s  memory 1540.74 MB 
+  elapsed time 556.5 s  memory 1062.39 MB 
+  elapsed time 559.5 s  memory 1062.39 MB 
+  elapsed time 562.6 s  memory 1062.39 MB 
+  elapsed time 565.6 s  memory 1062.39 MB 
+  elapsed time 568.6 s  memory 1062.39 MB 
+  elapsed time 571.7 s  memory 1062.39 MB 
+  elapsed time 574.7 s  memory 1062.39 MB 
+  elapsed time 577.8 s  memory 1062.39 MB 
+  elapsed time 580.8 s  memory 1062.39 MB 
+  elapsed time 583.9 s  memory 1062.39 MB 
+  elapsed time 586.9 s  memory 1062.39 MB 
+  elapsed time 589.9 s  memory 1523.99 MB 
+  elapsed time 593.0 s  memory 1523.99 MB 
+  elapsed time 596.0 s  memory 1523.99 MB 
+  elapsed time 599.0 s  memory 1523.99 MB 
+  elapsed time 602.1 s  memory 1523.99 MB 
+  elapsed time 605.1 s  memory 1523.99 MB 
+  elapsed time 608.2 s  memory 1523.99 MB 
+  elapsed time 611.2 s  memory 1531.72 MB 
+  elapsed time 614.3 s  memory 1540.48 MB 
+  elapsed time 617.3 s  memory 1540.48 MB 
+  elapsed time 620.4 s  memory 1540.48 MB 
+  elapsed time 623.4 s  memory 1540.48 MB 
+  elapsed time 626.4 s  memory 1540.48 MB 
+  elapsed time 629.5 s  memory 1540.48 MB 
+  elapsed time 632.5 s  memory 1541.39 MB 
+  elapsed time 635.5 s  memory 1541.39 MB 
+  elapsed time 638.6 s  memory 105.46 MB 
+    Entering ./runs/H2O/optJ3 4 
+      copying results  4 opt 
+    Entering ./runs/H2O/optJ3 4 
+      analyzing  4 opt 
+
+Project finished
+ 

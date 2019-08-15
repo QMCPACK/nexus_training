@@ -1,0 +1,65 @@
+Applying user settings 
+
+Project starting 
+  checking for file collisions 
+  loading cascade images 
+    cascade 0 checking in 
+  checking cascade dependencies 
+    all simulation dependencies satisfied 
+  
+  starting runs:
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+  elapsed time 0.0 s  memory 102.05 MB 
+    Entering ./runs/H2O/vmc 5 
+      writing input files  5 vmc 
+    Entering ./runs/H2O/vmc 5 
+      sending required files  5 vmc 
+      submitting job  5 vmc 
+    Entering ./runs/H2O/vmc 5 
+      Executing:  
+        export OMP_NUM_THREADS=1
+        mpirun -np 16 qmcpack vmc.in.xml 
+
+  elapsed time 3.1 s  memory 591.75 MB 
+  elapsed time 6.1 s  memory 591.75 MB 
+  elapsed time 9.1 s  memory 592.02 MB 
+  elapsed time 12.2 s  memory 592.29 MB 
+  elapsed time 15.2 s  memory 594.21 MB 
+  elapsed time 18.2 s  memory 598.58 MB 
+  elapsed time 21.2 s  memory 598.58 MB 
+  elapsed time 24.3 s  memory 598.85 MB 
+  elapsed time 27.3 s  memory 598.85 MB 
+  elapsed time 30.3 s  memory 599.12 MB 
+  elapsed time 33.4 s  memory 606.87 MB 
+  elapsed time 36.4 s  memory 607.13 MB 
+  elapsed time 39.5 s  memory 607.13 MB 
+  elapsed time 42.5 s  memory 607.40 MB 
+  elapsed time 45.5 s  memory 615.13 MB 
+  elapsed time 48.6 s  memory 617.50 MB 
+  elapsed time 51.6 s  memory 617.50 MB 
+  elapsed time 54.7 s  memory 617.77 MB 
+  elapsed time 57.7 s  memory 617.77 MB 
+  elapsed time 60.8 s  memory 621.70 MB 
+  elapsed time 63.8 s  memory 621.94 MB 
+  elapsed time 66.9 s  memory 621.94 MB 
+  elapsed time 69.9 s  memory 622.20 MB 
+  elapsed time 72.9 s  memory 622.20 MB 
+  elapsed time 75.9 s  memory 624.09 MB 
+  elapsed time 79.0 s  memory 624.33 MB 
+  elapsed time 82.0 s  memory 624.33 MB 
+  elapsed time 85.0 s  memory 624.33 MB 
+  elapsed time 88.1 s  memory 624.33 MB 
+  elapsed time 91.2 s  memory 624.33 MB 
+  elapsed time 94.2 s  memory 624.33 MB 
+  elapsed time 97.3 s  memory 624.59 MB 
+  elapsed time 100.3 s  memory 624.59 MB 
+  elapsed time 103.3 s  memory 624.59 MB 
+  elapsed time 106.4 s  memory 624.83 MB 
+  elapsed time 109.4 s  memory 624.83 MB 
+  elapsed time 112.4 s  memory 105.53 MB 
+    Entering ./runs/H2O/vmc 5 
+      copying results  5 vmc 
+    Entering ./runs/H2O/vmc 5 
+      analyzing  5 vmc 
+
+Project finished
