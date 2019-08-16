@@ -1,0 +1,86 @@
+#! /usr/bin/env python
+
+from structure_demos import *
+
+demo('rwigner')
+
+# structure generation
+
+demo('gen_h2o')
+
+demo('gen_diamond_direct')
+
+demo('gen_diamond_lattice')
+
+demo('gen_graphene')
+
+
+# writing and reading structures from files
+
+demo('write')
+
+demo('read')
+
+demo('read_cif')
+
+
+# making molecular systems
+
+demo('water_box')
+
+demo('coronene_box')
+
+
+# tiling structures
+
+demo('tiling')
+
+demo('matrix_tiling')
+
+demo('opt_tiling')
+
+
+# finding primitive cells 
+
+demo('primitive_search')
+
+
+# adding k-points
+
+demo('mp_kpoints')
+
+demo('random_kpoints')
+
+demo('symm_kpoints')
+
+
+# getting cell information
+
+demo('rwigner')
+
+demo('cell_constants')
+
+demo('unit_coords')
+
+
+# atomic neighbor and distance information
+
+demo('min_image_distances')
+
+demo('compare_structures')
+
+
+# freezing atoms
+
+demo('freeze')
+
+
+# embedding small relaxed structures in large unrelaxed ones
+
+demo('embed')
+
+
+# interpolating between structures (NEB)
+
+demo('interpolate')
+
